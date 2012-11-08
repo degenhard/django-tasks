@@ -44,7 +44,7 @@ def _log_file():
     if hasattr(settings, 'TASKS_LOG_FILE'):
         return settings.TASKS_LOG_FILE
     else:
-        return '/tmp/django-tasks.log'
+        return '/tmp/djangotasks.log'
 
 
 

@@ -59,7 +59,7 @@ class TaskManager(models.Manager):
     '''The TaskManager class is not for public use. 
 
 
-    The package-level API should be sufficient to use django-tasks.
+    The package-level API should be sufficient to use djangotasks.
     '''
 
 
